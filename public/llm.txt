@@ -1,0 +1,93 @@
+# Vibhor Tyagi
+/ˈvɪbɔːr ˈtjɑːɡi/ • noun • IST
+
+## About
+
+an AI/ML engineer in the making, currently an apprentice at Global Infoventures building **computer vision** systems on NVIDIA DGX A100 hardware, where an automated alert pipeline cut incident response time by roughly 50%.
+
+a third-year CS student at ABES Institute of Technology who likes to ship end to end: PyTorch models, Flask and FastAPI backends, React and Next.js frontends, and LLM agents with LangChain and LangGraph. 400+ DSA problems solved, 1700+ rating.
+
+## Experience
+
+### Global Infoventures Pvt. Ltd.
+**AI/ML Apprenticeship Trainee, Ghaziabad (On-site)**
+*Aug 2026 - Present*
+
+Building a computer vision safety monitoring system that flags compliance issues from real-world data.
+
+- Trained, tested, and validated machine learning and deep learning models on **NVIDIA DGX A100** infrastructure.
+- Integrated **Flask** APIs with the ML system to automate alerts and streamline the workflow.
+- Reduced incident response time by approximately **50%** with the streamlined alert workflow.
+
+**Stack:** Python, PyTorch, TensorFlow, CNNs, Object Detection, Flask, Docker, NVIDIA DGX A100
+
+### 1M1B in partnership with Microsoft
+**Green Skills & Applied AI Intern**
+
+Jul 2026 - Oct 2026
+
+- Built AI-driven sustainability prototypes that supported better environmental decision-making.
+- Improved climate data analysis efficiency by **19%** with AI-assisted workflows, cutting processing time and surfacing key patterns faster.
+- Researched 10+ green technology approaches and proposed AI-based strategies for climate action, sustainability planning, and resource optimization.
+
+**Stack:** Python, Scikit-learn, Matplotlib, TensorFlow, OpenAI/LLMs
+
+### Brandvio
+**Frontend Developer Intern**
+
+Jun 2026 - Jul 2026
+
+- Built secure authentication workflows with **JWT**, **OAuth**, and role-based access control (RBAC).
+- Wrote reusable, maintainable component-based code following SOLID principles, improving development efficiency by **60%**.
+- Evaluated and integrated modern frontend technologies to improve performance, scalability, and user experience.
+
+**Stack:** HTML, CSS, JavaScript, React, Tailwind CSS, Express
+
+## Achievements & Certifications
+
+### Problem solving, certifications, and community
+
+- Solved **400+ DSA problems** across LeetCode and Codeforces, with a **1700+ rating** and an 80+ day coding streak.
+- **Agentic AI Certified**, Oracle University (Jul 2026). [View certificate](https://go.fliplink.me/view/2DE7FF14-B984-484D-AED7-3E890A5C83EB)
+- **Elements of AI** (2 ECTS), University of Helsinki & MinnaLearn (Jun 2026). [View certificate](https://certificates.mooc.fi/validate/7wj3b4ypze3)
+- Completed the **AICTE IBM SkillsBuild** Data Analytics with AI Internship Program 2026.
+- Part of a **Guinness World Record** through the "AI for ALL" initiative (MPIT Centre of Excellence, TCS Foundation, TCS iON).
+- Campus Ambassador at Career360.
+
+## Featured Project
+
+### ExamSuraksha
+**multi-agent AI proctoring and tutoring platform**
+[https://github.com/tyagivibhor111-hub/ExamSuraksha](https://github.com/tyagivibhor111-hub/ExamSuraksha)
+
+A multi-agent proctoring system that combines **OpenCV**, audio analysis, and LLMs to detect exam anomalies and raise severity-based alerts.
+
+- AI tutoring engine built on Gemini and OpenAI that analyzes exam performance and generates personalized **4-week study plans**.
+- Streamlit and SQLite analytics platform with real-time monitoring, email alerts, student risk profiling, and incident reporting.
+
+**Stack:** Python, OpenCV, Streamlit, Gemini, REST APIs, Pandas, NumPy, Flask
+
+View on GitHub: [https://github.com/tyagivibhor111-hub/ExamSuraksha](https://github.com/tyagivibhor111-hub/ExamSuraksha)
+
+## Education
+
+### ABES Institute of Technology, Ghaziabad
+**B.Tech, Computer Science & Engineering**
+2024 - 2028 | CGPA: 8
+
+Guided junior students in programming fundamentals and coding practice.
+
+## Tech Stack
+
+C, C++, Java, Python, JavaScript, TypeScript, PyTorch, TensorFlow, Scikit-learn, OpenCV, Pandas, NumPy, LangChain, LangGraph, React, Next.js, Express, Flask, FastAPI, MySQL, MongoDB, PostgreSQL, Git, Docker, Kubernetes, Jenkins, Linux
+
+## Get in Touch
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/vibhor-tyagi-5b2954416/) or shoot an [email](mailto:tyagivibhor111@gmail.com)
+
+---
+
+**Links:**
+- GitHub: [https://github.com/tyagivibhor111-hub](https://github.com/tyagivibhor111-hub)
+- LinkedIn: [https://www.linkedin.com/in/vibhor-tyagi-5b2954416/](https://www.linkedin.com/in/vibhor-tyagi-5b2954416/)
+- Email: [mailto:tyagivibhor111@gmail.com](mailto:tyagivibhor111@gmail.com)
