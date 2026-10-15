@@ -45,9 +45,11 @@
           "tz": "Asia/Kolkata"
         },
         "intro": [
-          "an AI/ML engineer in the making, currently an apprentice at Global Infoventures building **computer vision** systems on NVIDIA DGX A100 hardware, where an automated alert pipeline cut incident response time by roughly 50%.",
-          "a third-year CS student at ABES Institute of Technology who likes to ship end to end: PyTorch models, Flask and FastAPI backends, React and Next.js frontends, and LLM agents with LangChain and LangGraph. 400+ DSA problems solved, 1700+ rating."
-        ]
+          "Hi, I'm Vibhor, a Software Developer interested in building useful products and solving real-world problems through code. I enjoy working across AI/ML, Full-Stack Development, and Backend Systems, exploring how technology can make things better.",
+          "I've gained hands-on experience through internships and projects involving AI-Powered Applications, Computer Vision, Web Development, and Secure Authentication. I enjoy turning ideas into working products using Python, React, Node.js, Machine Learning Frameworks, and modern development tools.",
+
+          "I'm particularly interested in Generative AI, Agentic AI, and Open-Source Development. I value Problem-Solving, Continuous Learning, and Collaboration, and I'm always exploring new technologies and looking for meaningful challenges that help me grow as an engineer."
+]
       }
     },
     {
